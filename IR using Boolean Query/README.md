@@ -5,4 +5,4 @@
 
 ## Overview of the Approach used :
 
-![Flow Diagram of the Approach](https://github.com/iamskab/Deep-Learning/blob/main/IR%20using%20Boolean%20Query/Flow_Diagram.png)
+![Flow_Diagram](Flow_Diagram.png)
